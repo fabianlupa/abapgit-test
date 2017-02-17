@@ -1,0 +1,6 @@
+<entry attr="test">
+  <subnode/>
+  <subnode2>
+    <param name="test" value="test" />
+  </subnode2>
+</entry>
