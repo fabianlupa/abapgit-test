@@ -18,6 +18,11 @@
      <MIN_RELEASE>750</MIN_RELEASE>
     </item>
     <item>
+     <COMPONENT>SAP_ABA</COMPONENT>
+     <MIN_RELEASE>750</MIN_RELEASE>
+     <MIN_PATCH>3</MIN_PATCH>
+    </item>
+    <item>
      <COMPONENT>UNKNOWN_COMP</COMPONENT>
     </item>
    </REQUIREMENTS>
