@@ -15,7 +15,10 @@
    <REQUIREMENTS>
     <item>
      <COMPONENT>SAP_BASIS</COMPONENT>
-     <MIN_RELEASE>751</MIN_RELEASE>
+     <MIN_RELEASE>750</MIN_RELEASE>
+    </item>
+    <item>
+     <COMPONENT>UNKNOWN_COMP</COMPONENT>
     </item>
    </REQUIREMENTS>
   </DATA>
